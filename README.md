@@ -119,6 +119,8 @@ The estimated reception budget uses the following assumptions:
 
 - Kiana_Ward_Project1.docx — Written analysis and stakeholder report
 
+- [View Stakeholder Analysis Report (PDF)](Wedding_Guest_Analysis_Report.pdf) — Reception cost analysis and written recommendations.
+
 ## What I Learned
 
 Through this project, I strengthened my ability to organize and analyze structured data, validate calculations, develop meaningful visualizations, and communicate findings to support business decisions.
