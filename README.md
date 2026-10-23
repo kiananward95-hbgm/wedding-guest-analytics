@@ -4,6 +4,15 @@ Wedding Guest Analytics Dashboard
 
 ### Interactive Excel Dashboard | Data Analysis & Visualization
 
+## Dashboard Preview
+
+### Attendance Overview
+
+![Wedding Guest Dashboard Overview](Wedding_Dashboard_Overview.png)
+
+### Interactive Relationship Analysis
+
+![Wedding Guest Interactive Dashboard](Wedding_Dashboard_Interactive.png)
 ## Project Overview
 
 This project analyzes wedding guest attendance, RSVP decisions, and estimated reception expenses using Microsoft Excel.
